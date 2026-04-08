@@ -97,6 +97,10 @@ ConcurrentHashMap
 
 ## 👨‍💻 Author
 
-
+GROUP PROJECT
 Devraj Maji<br>
+Nirmalya Sen<br>
+Debashish Chandra<br>
+Tridib Nayek<br>
+Kuntal Hati<br>
 B.Tech CSE Student — Techno India University
