@@ -95,8 +95,15 @@ Socket Programming
 Multithreading
 ConcurrentHashMap
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
+This project is the result of a collaborative effort by a dedicated team of Computer Science students from **Techno India University**.
 
-Devraj Maji<br>
-B.Tech CSE Student — Techno India University
+- **Devraj Maji** — B.Tech CSE  
+- **Debasish**  
+- **Tridip**  
+- **Nirmalya**  
+
+---
+
+✨ *Built with teamwork, creativity, and a shared passion for technology and innovation.*
